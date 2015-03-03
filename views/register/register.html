@@ -1,0 +1,42 @@
+<div class="page">
+    <div class="container">
+        <div class="register-title">{{'Register.Title' |translate}}</div>
+        <div style="height:7px;width:100%;float:left;"></div>
+        <div class="content member">
+            <div class="content_section1">
+            </div>
+            <div class="content_section2">
+            </div>
+            <div class="content_section3">
+            </div>
+            <div class="content_section4">
+            </div>
+
+            <div class="register-title2">{{'Register.Title2'|translate}}</div>
+
+            <form name="myForm" ng-submit="createMember(member)">
+
+                <input type="text" placeholder="{{'Register.E-mail'|translate}}" ng-model="member.email" /> </br>
+
+                <input type="text" placeholder="{{'Register.Name'|translate}}" ng-model="member.firstName" /> </br>
+                <input type="text" placeholder="{{'Register.Lastname'|translate}}" ng-model="member.lastName" /> </br>
+
+                <input type="password" placeholder="{{'Register.Pas'|translate}}" name="password"
+                       data-ng-class="{'ng-invalid':myForm.confirmPassword.$error.match}" ng-model="member.password" /></br>
+
+
+                <!--<input type="password" placeholder="{{'Register.Pass'|translate}}" data-match="password" name="confirmPassword"-->
+                <!--ng-model="member.passwordConfirm"/></br>-->
+                <!--<div data-ng-show="myForm.confirmPassword.$error.match">{{'Register.PasswordError'|translate}}</div>-->
+
+
+                <input type="text" placeholder="{{'Register.Campaign'|translate}}" ng-model="member.campaignCode" /> </br>
+
+                <input type="submit" value="{{'Register.Create'|translate}}" /> </br>
+                <label>Hesabımı Oluştur Butonuna Tıkladığınızda Kullanım Sözleşmesini Ve Gizlilik Sözleşmesini Kabul Etmiş Sayılırsınız </label>
+
+
+            </form>
+        </div>
+    </div>
+</div>

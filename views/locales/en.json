@@ -1,0 +1,87 @@
+{
+  "Index": {
+    "Title": "Ofisim.com Teamwork and Project Management"
+  },
+  "Header": {
+    "MainPage": "MAIN PAGE",
+    "Features": "FEATURES",
+    "Membership": "MEMBERSHIP",
+    "Login": "LOG IN"
+  },
+  "Home": {
+    "Detail": "Detail",
+    "Content_Section1": "Track your own work and your team's deliverables with an easy-to-use task management feature. Get e-mail reminders when the time is due!",
+    "Content_Section2": "Store and access your contacts' information whenever you want! Save notes and view all your interactions in a historical order.",
+    "Content_Section3": "Set-up a new project and track them right in your account! View all related contacts, tasks and documents in one place. Collaborate on projects with your clients.",
+    "Content_Section4": "Upload documents in your private account, then make them accessible wherever you want. No backup headaches!",
+    "Content_Section5": " Create and share projects, tasks and documents with your collegues. Actively collaborate with them from anywhere.",
+    "Content_Section6": "Access your account from any computer or a smart phone connected to the internet. Take advantage of our always online cloud platform.",
+    "Content_Section7": " Store and view all relevant activities, notes and communication history about your projects and contacts. Use Ofisim.com as a practical CRM solution for your business!",
+    "Content_Section8": "Rest assured, all your information is well protected in our state-of-the-art infrastructure. We provide bank level security where all you data is regulary backed-up and your entire communication is SSL encrypted."
+  },
+  "Features": {
+    "Title": "Welcome to the easy and effective way of doing business.",
+    "Title2": "When you log in to your account Ofisim.com welcomes you home.You can follow the workflow of your life on a single page."
+  },
+  "Plan": {
+    "Title": "Create your Ofisim.com account in 60 seconds.",
+    "Title2": "Choose the most suitable package for you. No long-term commitments. Just pay as you go.",
+    "Personal1": "Personal",
+    "Month": "Montly Fee",
+    "Free": "Free",
+    "Money1": "15 EUR",
+    "Money2": "60 EUR",
+    "Money3": "110 EUR",
+    "Month2": "1 Month Free",
+    "User": "User Limit",
+    "UserTitle": "USER LIMIT",
+    "UserContent": "When you create a ofisim.com account, a special working group is set up for you. ıf you want , you can invite your teammates to this group, work together and share informations.Number of users shows you how many people can work together at the same time.",
+    "Disk": "Disk Space",
+    "DiskTitle": "DISK SPACE",
+    "DiskContent": "You can use storage space for your all activities and uploaded files.",
+    "File": "File Upload Limit",
+    "FileTitle": "FILE UPLOAD LIMIT",
+    "FileContent": "shows you the maximum size of files you can upload to the site. you can upload more than one file at the same time but sizes of the files cant exceed the uploading limit.",
+    "Custom": "Customization",
+    "CustomTitle": "CUSTOMIZATION",
+    "CustomContent": "When you create your Ofisim.com account, Contact, Company, Project and Opportunity entities will be created automatically. You can change entities' fields by means of this features or you can create other entities.",
+    "Work": "Extra Workgroups",
+    "WorkTitle": "EXTRA WORKGROUPS",
+    "WorkContent": "when you create a ofisim.com account, a special working group is set up for you. In addition , you can set up new independent groups for diferent goals.",
+    "Customer": "Customer Support",
+    "CustomerTitle": "CUSTOMER SUPPORT",
+    "CustomerContent": "You can get a personal support via e-mail.",
+    "Security": "Security - SSL",
+    "SecurityTitle": "SECURITY - SSL",
+    "SecurityContent": "Your data is protected with bank-level security infrastructure and all your connections are coded with the most recent technology SSL infrastructure.",
+    "Packet": "For all paid packages :",
+    "Add": "Additional User",
+    "AddTitle": "EXTRA USER",
+    "AddContent": "You can add extra user to your membership package.",
+    "AddMoney": "4 EUR / month",
+    "AddDisk": "Additional 1 GB Disk Space",
+    "AddDiskTitle": "EXTRA STORAGE SPACE",
+    "AddDiskContent": " You can add extra storage space to your membership package."
+  },
+  "Register": {
+    "Title": "New Member",
+    "Title2": "New Member Form",
+    "E-mail": "e-Mail Address",
+    "Name": "First Name",
+    "Lastname": "Last Name",
+    "Pas": "Password",
+    "Pass": "Password(again)",
+    "Campaign": "Campaign Code",
+    "Create": "Create My Account",
+    "PasswordError":"Passwords do not match!"
+  },
+  "Resend":{
+    "Title":"Activation",
+    "Title2":"Activation E-mail ",
+    "Content":"Thanks for registering to Ofisim.com!",
+    "Content1":"We have sent an email to your address:{{adress}}",
+    "Content2":"Please check your email and click to the confirmation link in email we sent yo you. Your account will be ready to use!",
+    "Content3":"If you don't receive that email in a few minutes, please check your spam folder or click &nbsp; <a href> here.</a> to resend the email."
+
+  }
+}

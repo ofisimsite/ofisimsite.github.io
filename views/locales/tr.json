@@ -1,0 +1,86 @@
+{
+  "Index": {
+    "Title": "Ofisim.com CRM, Takım Çalışması ve Proje Yönetimi"
+  },
+  "Header": {
+    "MainPage": "ANA SAYFA",
+    "Features": "ÖZELLİKLER",
+    "Membership": "ÜYELİK PAKETLERİ",
+    "Login": "HESABA GİRİŞ"
+  },
+  "Home": {
+    "Detail": "Detay",
+    "Content_Section1": "Yapılacak işlerinizi asla unutmayın! Kendiniz veya takım arkadaşlarınız için görevler ekleyip, ne zaman ne yapılacağını kolaylıkla takip edin.",
+    "Content_Section2": "Hesabınızdaki müşterilerle ilgili her türlü bilgiye anında ulaşın! İletişim bilgileri ve hatırlamak istediğiniz notları tarihsel sırasına göre saklayın.",
+    "Content_Section3": "Projelerinizi burada tanımlayıp takip edin! İlgili müşteri, görev ve dokümanları projelerinize iliştirip paylaştığınız müşterilerle üzerlerinde çalışın.",
+    "Content_Section4": "Dokümanlarınızı size özel hesabınızda saklayıp, istediğiniz yerden erişilebilir hale getirin. Yedekleme derdinden ve kaybetme riskinden kurtulun!",
+    "Content_Section5": "Ortak çalışma grupları oluşturarak istediginiz müşterilerle proje ve dokümanlarınızı paylaşın. Aktiviteler ve notlar aracılığıyla sürekli iletişim halinde olun.",
+    "Content_Section6": "İnternete bağlı herhangi bir bilgisayar veya cep telefonundan hesabınıza ulaşın. Güçlü altyapımızın sunduğu kesintisiz ve yüksek performanslı teknolojiyi farkedin.",
+    "Content_Section7": "Bütün proje ve müşterilerle ilgili geçmiş aktivitelere dilediğiniz zaman kolaylıkla erişin. Ofisim.com'u pratik bir CRM çözümü olarak firmanızda hayata geçirin.",
+    "Content_Section8": "İçiniz rahat etsin: Ofisim.com'daki verileriniz banka seviyesinde güvenlik sistemleri ile korunmaktadır. Her türlü yedekleme yapılmakta ve her tüm iletişimler şifreli olarak (SSL) yapılmaktadır. "
+  },
+  "Features": {
+    "Title": "İş yapmanın kolay ve etkili yoluna hoşgeldiniz.",
+    "Title2": "Ofisim.com hesabınıza giriş yaptığınızda sizi ana sayfa karşılar. Buradan iş hayatınızın akışını tek bir sayfada takip edebilirsiniz."
+  },
+  "Plan": {
+    "Title": "60 saniyede Ofisim.com hesabınızı açın.",
+    "Title2": "Size uygun üyelik paketini seçin. Uzun süreli kontratlara bağlı kalmadan, kullandığınız kadar ödeme yapın.",
+    "Personal1": "Bireysel",
+    "Month": "Aylık Ücret",
+    "Free": "Ücretsiz",
+    "Money1": "39 TL",
+    "Money2": "149 TL",
+    "Money3": "289 TL",
+    "Month2": "1 Ay Ücretsiz!",
+    "User": "Kullanıcı Sayısı",
+    "UserTitle": "KULLANICI SAYISI",
+    "UserContent": "Ofisim.com hesabınızı açtığınızda size özel bir çalışma grubu kurulur ve hemen kullanmaya başlayabilirsiniz.Eğer isterseniz takım arkadaşlarınızı da oluşturduğunuz çalışma grubuna davet edebilir, birlikte aynı ortamda veri paylaşabilir, iş yapabilirsiniz. Kullanıcı sayısı hesabınızda aynı anda kaç kişinin çalışabileceğini gösterir.",
+    "Disk": "Disk Alanı",
+    "DiskTitle": "DİSK ALANI",
+    "DiskContent": "Tüm aktiviteleriniz ve yüklediğiniz dosyalar için kullanabileceğiniz disk alanıdır.",
+    "File": "Dosya Yükleme Limiti",
+    "FileTitle": "DOSYA YÜKLEME LİMİTİ ",
+    "FileContent": "Ofisim.com'a yükleyebileceğiniz dosyaların maksimum büyüklüğünü gösterir. Birden fazla dosya aynı anda yükleyebilirsiniz, fakat dosyaların tek başına burada belirtilen büyüklüğü geçmemesi gerekir.",
+    "Custom": "Özelleştirme",
+    "CustomTitle": "ÖZELLEŞTİRME",
+    "CustomContent": "Ofisim.com hesabınızı oluşturduğunuzda sizin için Kişi, Firma, Proje ve Fırsat varlıkları otomatik olarak oluşturulur. Özelleştirme özelliği ile isterseniz bu varlıkların alanlarında değişiklik yapabilir, veya tamamen farklı yeni varlıklar oluşturabilirsiniz.",
+    "Work": "Ekstra Çalışma Grubu Kurabilme",
+    "WorkTitle": "EKSTRA ÇALIŞMA GRUBU KURABİLME",
+    "WorkContent": "Ofisim.com hesabınızı açtığınızda size özel bir çalışma grubu kurulur ve hemen kullanmaya başlayabilirsiniz. Bu gruba ek olarak, isterseniz birbirinden tamamen bağımsız yeni çalışma grupları da kurabilir, farklı amaçlarla kullanabilirsiniz.",
+    "Customer": "Müşteri Desteği ",
+    "CustomerTitle": "MÜŞTERİ DESTEĞİ",
+    "CustomerContent": "E-mail üzerinden kişisel destek alabilirsiniz.",
+    "Security": "Güvenlik - SSL",
+    "SecurityTitle": "GÜVENLİK - SSL",
+    "SecurityContent": "Verileriniz banka seviyesindeki güvenlik altyapısı ile korunmakta ve tüm bağlantılarınız son teknoloji SSL atyapısı ile şifrelenmektedir.",
+    "Packet": "Ayrıca Bireysel Dışında Tüm Paketler İçin :",
+    "Add": "Ek Kullanıcı",
+    "AddTitle": "EK KULLANICI",
+    "AddContent": "Üye olduğunuz paketteki kullanıcı sayısını ek kullanıcı ekleyerek artırabilirsiniz.",
+    "AddMoney": "9 TL / Ay",
+    "AddDisk": "Ek 1 GB Disk Alanı",
+    "AddDiskTitle": "EK DİSK ALANI",
+    "AddDiskContent": "Üye olduğunuz paketteki disk alanını ek disk alanı ekleyerek artırabilirsiniz."
+  },
+  "Register": {
+    "Title": "Yeni Üye",
+    "Title2": "Yeni Üye Formu",
+    "E-mail": "e Posta Adresiniz",
+    "Name": "Adınızı",
+    "Lastname": "Soyadınız",
+    "Pas": "Şifre",
+    "Pass": "Şifre (tekrar)",
+    "Campaign": "Kampanya  Kodu",
+    "Create": "Hesabımı Oluştur",
+    "PasswordError":"Şifreler Eşleşmiyor!"
+  },
+  "Resend":{
+    "Title":"Aktivasyon",
+    "Title2":"Aktivasyon Mail",
+    "Content":"  Ofisim.com'a üye olduğunuz için teşekkürler!",
+    "Content1":"Güvenliğiniz için {{adress}} adresine bir doğrulama e-postası gönderdik.",
+    "Content2":"Lütfen posta kutunuzu kontrol edin ve eposta ile gelen doğrulama linkine tıklayın. Hesabınız anında kullanıma açılacak ve kullanıma başlayacaksınız.",
+    "Content3":"Eğer bir dakika içerisinde adresinize eposta ulaşmadı ise lütfen spam klasörünüzü kontrol edin veya tekrar doğrulama gönderilmesi için &nbsp;<a href > burayı tıklayın.</a>"
+  }
+}

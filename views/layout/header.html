@@ -1,0 +1,25 @@
+<div class="page" ng-controller="HeaderController">
+    <div class="container">
+        <div class="logo">
+            <a href="#/home"><img src="images/logo.png" width="358" height="120" border="0"/></a>
+        </div>
+        <!-- TOP MENU -->
+        <div class="top_menu">
+            <ul>
+                <li><a href="#/home">{{'Header.MainPage' | translate}} </a></li>
+                <li><img src="images/sep.png" width="2" height="18"/></li>
+                <li><a href="#/features">{{'Header.Features' | translate}} </a></li>
+                <li><img src="images/sep.png" width="2" height="18"/></li>
+                <li><a href="#/plans">{{'Header.Membership' | translate}} </a></li>
+                <li><img src="images/sep.png" width="2" height="18"/></li>
+                <li><img src="images/lock_icon.png" width="17" height="19" border="0"/>
+                    <a style="color:#f9c523;" href="http://test.ofisim.com/">{{'Header.Login' | translate}}</a></li>
+                <li><img src="images/sep.png" width="2" height="18"/></li>
+                <li ng-if="language=='tr'"><img ng-click="changeLanguage('en')" src="images/eng.png" height="20" border="0" style="cursor: pointer"/></li>
+                <li ng-if="language=='en'"><img ng-click="changeLanguage('tr')" src="images/tr.png" height="20" border="0" style="cursor: pointer"/></li>
+            </ul>
+        </div>
+
+
+    </div>
+</div>

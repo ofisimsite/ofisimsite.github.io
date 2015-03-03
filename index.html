@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html ng-app="OfisimSite">
+<head>
+    <title>{{'Index.Title'|translate}}</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=9">
+    <base href="/OfisimSite/www/">
+
+    <link type='text/css' rel='stylesheet' href="styles/vendor/bootstrap.min.css">
+    <link type='text/css' rel='stylesheet' href="styles/vendor/angular-carousel.min.css">
+    <link type='text/css' rel="stylesheet" href="styles/site.css">
+
+    <script src="scripts/vendor/angular.min.js"></script>
+    <script src="scripts/vendor/angular-route.min.js"></script>
+    <script src="scripts/vendor/angular-translate.min.js"></script>
+    <script src="scripts/vendor/angular-translate-extentions.min.js"></script>
+    <script src="scripts/vendor/angular-touch.min.js"></script>
+    <script src="scripts/vendor/angular-carousel.min.js"></script>
+    <script src="scripts/vendor/angular-input-match.min.js"></script>
+    <script src="scripts/vendor/angular-strap.min.js"></script>
+    <script src="scripts/vendor/angular-strap.tpl.min.js"></script>
+    <script src="scripts/app.js"></script>
+    <script src="scripts/constants.js"></script>
+    <script src="scripts/utils.js"></script>
+    <script src="scripts/directives.js"></script>
+    <script src="scripts/filters.js"></script>
+    <script src="views/home/homeController.js"></script>
+    <script src="views/layout/headerController.js"></script>
+    <script src="views/features/featureController.js"></script>
+    <script src="views/plans/planController.js"></script>
+    <script src="views/register/registerController.js"></script>
+    <script src="views/register/registerService.js"></script>
+</head>
+<body ng-cloak class="body-sub" ng-class="isHome ? 'body-home' : 'body-sub'">
+    <div ng-include="'views/layout/header.html'"></div>
+    <div ng-view></div>
+    <div ng-include="'views/layout/footer.html'"></div>
+</body>
+</html>
